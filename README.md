@@ -7,4 +7,5 @@ Tech Stack – JavaScript, ReactJS, Open Weather Map API
 Demo:-
 https://elastic-benz-d00394.netlify.app/
 
-![Weather-App](https://github.com/aryansingh027/Weather-App/assets/90173266/c4b485f3-450b-4692-8f9f-4ee71d7acad3)
+![Weather-App (1)](https://github.com/aryansingh027/Weather-App/assets/90173266/ba11b8ce-1cd0-4fc9-aca0-f2277248eaff)
+
